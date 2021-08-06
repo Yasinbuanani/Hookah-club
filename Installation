@@ -1,0 +1,8 @@
+Hookah club is the project with the help of which you can choose a hookah and tobacco, read about it, calculate the price and make an order. 
+Installation: 
+1)Install Node and npm. 
+2)Install Webpack. 
+3)Install Json-server. 
+4)Open this project in local server. 
+5)In one window of the terminal run webpack (npx webpack) 
+  In the second window of the terminal run json-server (npx json-server db.json)
