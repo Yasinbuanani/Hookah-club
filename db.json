@@ -1,0 +1,87 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/Darkside.jpg",
+      "altimg": "darkside",
+      "title": "Tobacco 'Darkside'",
+      "descr": "Darkside – a real master of the hookah industry. Excellent quality, excellent blend of raw tobacco, constantly refined flavor palette - all this allows the brand to act as a 'trendsetter'. Tastes: (Bananapapa, DarkSupra, Blackcurrant, Icecream, Cola, Lemonblast, Grapefruit, Supernova, Wildberry, Citrus, Bergamonstr, Pear, Blackberry, Mango, Melon, Peach)",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/Fumari.jpg",
+      "altimg": "fumari",
+      "title": "Tobacco 'Fumari'",
+      "descr": "Fumari – one of the most famous and proven American tobaccos, which began to be smoked at the dawn of the hookah industry. The brand has in its arsenal quite multifaceted, original, and most importantly, non-chemical aromas. Tastes: (Ambrosia, Mojito Mojo, Spiced Chai, Cherry, Citrus Mint, Limoncello, Red Gummi Bear, White Gummi Bear, Tutti Frutti, Tropical Mango, Tangelo, Watermelon, White Peach, White Grape)",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/Jibiar.jpg",
+      "altimg": "jibiar",
+      "title": "Tobacco 'Jibiar'",
+      "descr": "An unusual novelty straight from Turkey - delicate and at the same time rich, JIBIAR tobacco will give a real gamut of positive emotions while smoking a hookah. Smoky and natural, it is able to envelop the smoker in a bright wave of unusual, fresh aroma. Tastes: (Cold Passion, Ice Grapefruit, Volkano, Paradise Island,Chai Lemon, Sweet Watermelon, Royal Palace, Ice Melon, Ice Pineapple, Cinderella, Solero)",
+      "price": 5
+    }
+  ],
+  "requests": [
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 1
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 2
+    },
+    {
+      "name": "new",
+      "phone": "asfdasf",
+      "id": 3
+    },
+    {
+      "name": "оро",
+      "phone": "льл",
+      "id": 4
+    },
+    {
+      "name": "casdasd",
+      "phone": "asfdasf",
+      "id": 5
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 6
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 7
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 8
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 9
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 10
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 11
+    },
+    {
+      "name": "yasin",
+      "phone": "4536634643",
+      "id": 12
+    }
+  ]
+}
